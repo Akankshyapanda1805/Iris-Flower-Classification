@@ -1,2 +1,20 @@
-# Iris-Flower-Classification
-This project is a Flask-based web application that uses Machine Learning to classify Iris flowers into Setosa, Virginica, or Versicolor based on sepal and petal measurements. The model is built using Decision Tree Regressor and deployed with Flask for user interaction.
+# IRIS Flower classification (Flask)
+
+This web app uses Machine Learning to classify Iris Flower based on their species (Versicolor, Setosa, Virginica)
+
+## Packages / Technologies Used
+
+```
+Flask as the frame work
+Html, css , Bootstrap for the design and structure
+Machine Learning Algorithm ( Decision Trees ) for classification
+Numpy, Pandas, Pickle, Sklearn, Seaborn, Matplotlib for visualization & analysis 
+
+```
+
+## Working URL
+
+The link to the deployed app is [this](http://karankaul10.pythonanywhere.com/).
+
+## Note
+The Web design aspects such as the page styling have been referenced. 
