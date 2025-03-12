@@ -4,7 +4,9 @@ This project is a Flask-based web application that uses Machine Learning to clas
 
 ## 🚀 Features:
 ✅ Train & save an ML model (model.pkl)
+
 ✅ Predict Iris species using a web form
+
 ✅ Flask-based UI with Bootstrap styling
 
 🔹 Tech Stack: Python, Flask, scikit-learn, Pandas, Matplotlib, Seaborn.
@@ -36,14 +38,23 @@ HTML, CSS, Bootstrap (Frontend)
 ## 📂 Project Structure
 IRIS-Flower-Classification/
 ├── app.py                 # Flask Web App
+
 ├── forms.py               # Flask-WTF Form Handling
+
 ├── model.py               # Train ML Model & Save as model.pkl
+
 ├── model_import_test.py   # Test Model Predictions
+
 ├── model.pkl              # Pretrained Model File
+
 ├── iris-with-answers.csv  # Dataset
+
 ├── README.md              # Project Documentation
+
 ├── static/                # CSS, JS files
+
 ├── templates/             # HTML Templates (Flask)
+
 └── requirements.txt       # Required Packages
 
 ## 📌 Future Enhancements
