@@ -60,5 +60,7 @@ IRIS-Flower-Classification/
 ## 📌 Future Enhancements
 
 🔹 Deploy on Heroku or AWS
+
 🔹 Improve UI with React.js
+
 🔹 Add more ML models like Random Forest, SVM
